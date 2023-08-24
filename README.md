@@ -3,11 +3,10 @@
 
 AWS Lambda CRUD Operations 
 
+API GATEWAY :
 
-Invoke URL: https://2e2iwuhmti.execute-api.ap-southeast-2.amazonaws.com/dev
 
-
-API GATEWAY : 
+Invoke URL: https://**************************************/dev 
 
 
 /
@@ -24,6 +23,6 @@ API GATEWAY :
 Endpoints: 
 
 
-1. https://2e2iwuhmti.execute-api.ap-southeast-2.amazonaws.com/dev/test
-2. https://2e2iwuhmti.execute-api.ap-southeast-2.amazonaws.com/dev/test/1
+1. https://**************************************/dev/test
+2. https://**************************************/dev/test/1
 
