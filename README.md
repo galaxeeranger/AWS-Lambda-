@@ -12,12 +12,10 @@ API GATEWAY :
 
 /
 
-
   /test
   ANY
   OPTIONS
 
-  
     /{id}
     ANY
     OPTIONS
