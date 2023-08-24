@@ -12,13 +12,13 @@ API GATEWAY :
 
 /
 
-  /test
-  ANY
-  OPTIONS
-
-    /{id}
-    ANY
-    OPTIONS
+..../test
+....ANY
+....OPTIONS
+  
+......../{id}
+........ANY
+........OPTIONS
 
 
 Endpoints: 
