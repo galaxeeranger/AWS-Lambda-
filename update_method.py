@@ -2,10 +2,10 @@ import pymysql
 import json
 
 def dbconnector():
-    msqlcon = pymysql.connect(host='iesl-dev-db-syd.cdiah0tmq8hx.ap-southeast-2.rds.amazonaws.com',
-                              user='shivmurat',
-                              password='aIsZAAYV#6vfzpko',
-                              db='Dummy-company_db',
+    msqlcon = pymysql.connect(host='***************************************',
+                              user='************',
+                              password='***********',
+                              db='***********',
                               charset='utf8mb4',
                               cursorclass=pymysql.cursors.DictCursor,
                               port=int(('3306')),
