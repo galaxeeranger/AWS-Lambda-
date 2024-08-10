@@ -1,7 +1,7 @@
 # AWS-Lambda-
 
 
-AWS Lambda CRUD Operations 
+AWS Lambda CRUD Operations with pymysql
 
 API GATEWAY :
 
